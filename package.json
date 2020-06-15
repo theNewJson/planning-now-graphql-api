@@ -1,0 +1,9 @@
+{
+  "name": "planning-now-graphql-api",
+  "version": "1.0.0",
+  "description": "a apollo graphql server for client project planning now.",
+  "main": "index.js",
+  "repository": "https://github.com/theNewJson/planning-now-graphql-api",
+  "author": "theNewJson",
+  "license": "MIT"
+}
